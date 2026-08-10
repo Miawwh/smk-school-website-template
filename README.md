@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="assets/img/Image-Webiste.png" alt="SMK School Website Template Screenshot" width="800"/>
+  <img src="public/assets/img/Image-Webiste.png" alt="SMK School Website Template Screenshot" width="800"/>
 </p>
 
 # 🎓 SMK School Website Template
@@ -105,6 +105,16 @@ Found a bug, typo, or have suggestions? Feel free to reach out:
 - **Email**: [miawhhh6@gmail.com](mailto:miawhhh6@gmail.com)
 
 Contributions are welcome! Submit a pull request or open an issue
+
+---
+
+## 📷 Images from Unsplash
+
+- [isaac-ramirez-gHmlQozI3Cw-unsplash](https://unsplash.com/es/@isaaclramirez)
+- [linkedin-sales-solutions-pAtA8xe_iVM-unsplash](https://unsplash.com/es/@linkedinsalesnavigator)
+- [partha-narasimhan-50TU6HYp2AE-unsplash](https://unsplash.com/es/@notsphinx)
+- [stefan-stefancik-QXevDflbl8A-unsplash](https://unsplash.com/es/@cikstefan)
+- [vicky-hladynets-C8Ta0gwPbQg-unsplash](https://unsplash.com/es/@vhladynets)
 
 ---
 
