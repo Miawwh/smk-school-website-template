@@ -1,0 +1,14 @@
+version: '3.17'
+
+tasks:
+  default:
+    desc: task serve
+    cmds:
+      - task serve
+
+  serve:
+    desc: Serve the current directory with Python's HTTP server (bound to 0.0.0.0)
+    aliases:
+      - s
+    cmds:
+      - python3 -m http.server --bind 0.0.0.0 --directory public
